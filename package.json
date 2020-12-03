@@ -9,6 +9,7 @@
   "author": "Shubham lokhande",
   "license": "ISC",
   "dependencies": {
+    "prompt-sync": "^4.2.0",
     "sync": "^0.2.5"
   }
 }
