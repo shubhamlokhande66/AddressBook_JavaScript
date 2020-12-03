@@ -1,0 +1,14 @@
+{
+  "name": "adressbook",
+  "version": "1.0.0",
+  "description": "Welcome ",
+  "main": "AdressBook.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shubham lokhande",
+  "license": "ISC",
+  "dependencies": {
+    "sync": "^0.2.5"
+  }
+}
